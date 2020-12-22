@@ -1,0 +1,12 @@
+{
+    "shellLauncher.shells.osx": [
+        {
+          "shell": "bash",
+          "label": "bash"
+        },
+        {
+          "shell": "zsh",
+          "label": "zsh"
+        }
+      ]
+}
